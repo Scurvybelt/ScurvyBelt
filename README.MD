@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B8D4&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Eduardo+Avila+%F0%9F%91%8B"/>
+</div>
+
 # 💫 About Me:
 ¡Hola! Soy un joven programador Full-Stack apasionado por el desarrollo web. Me encanta explorar nuevas tecnologías y siempre estoy buscando aprender y mejorar mis habilidades.<br><br>Mi objetivo es crear soluciones innovadoras y funcionales que hagan la vida más fácil. Me emociona enfrentar nuevos desafíos y colaborar en proyectos que me permitan crecer tanto personal como profesionalmente.<br><br>Estoy aquí para compartir conocimientos y conectar con otros entusiastas del desarrollo. ¡Si tienes un proyecto en mente o simplemente quieres charlar sobre tecnología, no dudes en contactarme!
 
