@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B8D4&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Eduardo+Avila+%F0%9F%91%8B"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Eduardo+Avila+%F0%9F%9A%80"/>
 </div>
 
 # 💫 About Me:
